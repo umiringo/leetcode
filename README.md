@@ -1,1 +1,36 @@
-# leetcode
+leetcode by c++ & js
+```
+.
+├── README.md
+├── cpp
+│   ├── 001_TwoSum.cpp
+│   ├── 007_ReverseInteger.cpp
+│   ├── 009_PalindromeNumber.cpp
+│   ├── 160_IntersectionofTwoLinkedLists.cpp
+│   ├── 169_MajorityElement.cpp
+│   ├── 191_Numberof1Bits.cpp
+│   ├── 206_ReverseLinkedList.cpp
+│   ├── 217_ContainsDuplicate.cpp
+│   ├── 237_DeleteNodeinaLinkedList.cpp
+│   ├── 242_ValidAnagram.cpp
+│   ├── 258_AddDigits.cpp
+│   ├── 283_MoveZeroes.cpp
+│   └── 292_NimGame.cpp
+├── genreadme.sh
+└── js
+    ├── 001_TwoSum.js
+    ├── 007_ReverseInteger.js
+    ├── 009_PalindromeNumber.js
+    ├── 160_IntersectionofTwoLinkedLists.js
+    ├── 169_MajorityElement.js
+    ├── 191_Numberof1Bits.js
+    ├── 206_ReverseLinkedList.js
+    ├── 217_ContainsDuplicate.js
+    ├── 237_DeleteNodeinaLinkedList.js
+    ├── 242_ValidAnagram.js
+    ├── 258_AddDigits.js
+    ├── 283_MoveZeroes.js
+    └── 292_NimGame.js
+
+2 directories, 28 files
+```
