@@ -4,8 +4,11 @@ leetcode by c++ & js
 ├── README.md
 ├── cpp
 │   ├── 001_TwoSum.cpp
+│   ├── 006_ZigZagConversion.cpp
 │   ├── 007_ReverseInteger.cpp
+│   ├── 008_StringtoInteger.cpp
 │   ├── 009_PalindromeNumber.cpp
+│   ├── 013_RomantoInteger.cpp
 │   ├── 160_IntersectionofTwoLinkedLists.cpp
 │   ├── 169_MajorityElement.cpp
 │   ├── 191_Numberof1Bits.cpp
@@ -19,8 +22,11 @@ leetcode by c++ & js
 ├── genreadme.sh
 └── js
     ├── 001_TwoSum.js
+    ├── 006_ZigZagConversion.js
     ├── 007_ReverseInteger.js
+    ├── 008_StringtoInteger.js
     ├── 009_PalindromeNumber.js
+    ├── 013_RomantoInteger.js
     ├── 160_IntersectionofTwoLinkedLists.js
     ├── 169_MajorityElement.js
     ├── 191_Numberof1Bits.js
@@ -32,5 +38,5 @@ leetcode by c++ & js
     ├── 283_MoveZeroes.js
     └── 292_NimGame.js
 
-2 directories, 28 files
+2 directories, 34 files
 ```
