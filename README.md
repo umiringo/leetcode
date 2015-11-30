@@ -39,7 +39,8 @@ leetcode by c++ & js
 │   ├── 258_AddDigits.cpp
 │   ├── 263_UglyNumber.cpp
 │   ├── 283_MoveZeroes.cpp
-│   └── 292_NimGame.cpp
+│   ├── 292_NimGame.cpp
+│   └── 303_RangeSumQuery-Immutable.cpp
 ├── genreadme.sh
 └── js
     ├── 001_TwoSum.js
@@ -78,7 +79,8 @@ leetcode by c++ & js
     ├── 258_AddDigits.js
     ├── 263_UglyNumber.js
     ├── 283_MoveZeroes.js
-    └── 292_NimGame.js
+    ├── 292_NimGame.js
+    └── 303_RangeSumQuery-Immutable.js
 
-2 directories, 76 files
+2 directories, 78 files
 ```
