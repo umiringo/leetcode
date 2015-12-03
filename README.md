@@ -22,6 +22,7 @@ leetcode by c++ & js
 │   ├── 118_PascalsTriangle.cpp
 │   ├── 119_PascalsTriangleII.cpp
 │   ├── 120_Triangle.cpp
+│   ├── 121_BestTimetoBuyandSellStock.cpp
 │   ├── 160_IntersectionofTwoLinkedLists.cpp
 │   ├── 168_ExcelSheetColumnTitle.cpp
 │   ├── 169_MajorityElement.cpp
@@ -41,7 +42,9 @@ leetcode by c++ & js
 │   ├── 263_UglyNumber.cpp
 │   ├── 283_MoveZeroes.cpp
 │   ├── 292_NimGame.cpp
-│   └── 303_RangeSumQuery-Immutable.cpp
+│   ├── 303_RangeSumQuery-Immutable.cpp
+│   ├── 304_RangeSumQuery2D-Immutable.cpp
+│   └── 312_BurstBalloons.cpp
 ├── genreadme.sh
 └── js
     ├── 001_TwoSum.js
@@ -63,6 +66,7 @@ leetcode by c++ & js
     ├── 118_PascalsTriangle.js
     ├── 119_PascalsTriangleII.js
     ├── 120_Triangle.js
+    ├── 121_BestTimetoBuyandSellStock.js
     ├── 160_IntersectionofTwoLinkedLists.js
     ├── 168_ExcelSheetColumnTitle.js
     ├── 169_MajorityElement.js
@@ -82,7 +86,9 @@ leetcode by c++ & js
     ├── 263_UglyNumber.js
     ├── 283_MoveZeroes.js
     ├── 292_NimGame.js
-    └── 303_RangeSumQuery-Immutable.js
+    ├── 303_RangeSumQuery-Immutable.js
+    ├── 304_RangeSumQuery2D-Immutable.js
+    └── 312_BurstBalloons.js
 
-2 directories, 80 files
+2 directories, 86 files
 ```
