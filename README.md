@@ -28,11 +28,13 @@ leetcode by c++ & js
 │   ├── 169_MajorityElement.cpp
 │   ├── 171_ExcelSheetColumnNumber.cpp
 │   ├── 172_FactorialTrailingZeroes.cpp
+│   ├── 190_ReverseBits.cpp
 │   ├── 191_Numberof1Bits.cpp
 │   ├── 198_HouseRobber.cpp
 │   ├── 202_HappyNumber.cpp
 │   ├── 206_ReverseLinkedList.cpp
 │   ├── 217_ContainsDuplicate.cpp
+│   ├── 225_ImplementStackusingQueues.cpp
 │   ├── 226_InvertBinaryTree.cpp
 │   ├── 231_PowerofTwo.cpp
 │   ├── 232_ImplementQueueusingStacks.cpp
@@ -73,11 +75,13 @@ leetcode by c++ & js
     ├── 169_MajorityElement.js
     ├── 171_ExcelSheetColumnNumber.js
     ├── 172_FactorialTrailingZeroes.js
+    ├── 190_ReverseBits.js
     ├── 191_Numberof1Bits.js
     ├── 198_HouseRobber.js
     ├── 202_HappyNumber.js
     ├── 206_ReverseLinkedList.js
     ├── 217_ContainsDuplicate.js
+    ├── 225_ImplementStackusingQueues.js
     ├── 226_InvertBinaryTree.js
     ├── 231_PowerofTwo.js
     ├── 232_ImplementQueueusingStacks.js
@@ -92,5 +96,5 @@ leetcode by c++ & js
     ├── 304_RangeSumQuery2D-Immutable.js
     └── 312_BurstBalloons.js
 
-2 directories, 88 files
+2 directories, 92 files
 ```
