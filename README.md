@@ -12,6 +12,7 @@ leetcode by c++ & js
 │   ├── 021_MergeTwoSortedLists.cpp
 │   ├── 026_RemoveDuplicatesfromSortedArray.cpp
 │   ├── 027_RemoveElement.cpp
+│   ├── 036_ValidSudoku.cpp
 │   ├── 066_PlusOne.cpp
 │   ├── 070_ClimbingStairs.cpp
 │   ├── 083_RemoveDuplicatesfromSortedList.cpp
@@ -59,6 +60,7 @@ leetcode by c++ & js
     ├── 021_MergeTwoSortedLists.js
     ├── 026_RemoveDuplicatesfromSortedArray.js
     ├── 027_RemoveElement.js
+    ├── 036_ValidSudoku.js
     ├── 066_PlusOne.js
     ├── 070_ClimbingStairs.js
     ├── 083_RemoveDuplicatesfromSortedList.js
@@ -96,5 +98,5 @@ leetcode by c++ & js
     ├── 304_RangeSumQuery2D-Immutable.js
     └── 312_BurstBalloons.js
 
-2 directories, 92 files
+2 directories, 94 files
 ```
