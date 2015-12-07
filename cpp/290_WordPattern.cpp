@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool wordPattern(string pattern, string str) {
-        std::unordered_map<char,int> pHash;
+        std::unordered_map<char,intvar> pHash;
         std::unordered_map<string,int> sHash;
         int sCount = 0;
         for(int i = 0; i < pattern.size(); ++i){
