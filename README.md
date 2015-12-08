@@ -56,6 +56,7 @@ leetcode by c++ & js
 │   ├── 283_MoveZeroes.cpp
 │   ├── 290_WordPattern.cpp
 │   ├── 292_NimGame.cpp
+│   ├── 299_BullsandCows.cpp
 │   ├── 303_RangeSumQuery-Immutable.cpp
 │   ├── 304_RangeSumQuery2D-Immutable.cpp
 │   └── 312_BurstBalloons.cpp
@@ -114,9 +115,10 @@ leetcode by c++ & js
     ├── 283_MoveZeroes.js
     ├── 290_WordPattern.js
     ├── 292_NimGame.js
+    ├── 299_BullsandCows.js
     ├── 303_RangeSumQuery-Immutable.js
     ├── 304_RangeSumQuery2D-Immutable.js
     └── 312_BurstBalloons.js
 
-2 directories, 114 files
+2 directories, 116 files
 ```
