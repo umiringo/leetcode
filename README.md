@@ -19,6 +19,7 @@ leetcode by c++ & js
 │   ├── 038_CountandSay.cpp
 │   ├── 058_LengthofLastWord.cpp
 │   ├── 066_PlusOne.cpp
+│   ├── 067_AddBinary.cpp
 │   ├── 070_ClimbingStairs.cpp
 │   ├── 083_RemoveDuplicatesfromSortedList.cpp
 │   ├── 088_MergeSortedArray.cpp
@@ -78,6 +79,7 @@ leetcode by c++ & js
     ├── 038_CountandSay.js
     ├── 058_LengthofLastWord.js
     ├── 066_PlusOne.js
+    ├── 067_AddBinary.js
     ├── 070_ClimbingStairs.js
     ├── 083_RemoveDuplicatesfromSortedList.js
     ├── 088_MergeSortedArray.js
@@ -120,5 +122,5 @@ leetcode by c++ & js
     ├── 304_RangeSumQuery2D-Immutable.js
     └── 312_BurstBalloons.js
 
-2 directories, 116 files
+2 directories, 118 files
 ```
