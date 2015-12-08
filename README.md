@@ -9,6 +9,7 @@ leetcode by c++ & js
 │   ├── 008_StringtoInteger.cpp
 │   ├── 009_PalindromeNumber.cpp
 │   ├── 013_RomantoInteger.cpp
+│   ├── 014_LongestCommonPrefix.cpp
 │   ├── 019_RemoveNthNodeFromEndofList.cpp
 │   ├── 020_ValidParentheses.cpp
 │   ├── 021_MergeTwoSortedLists.cpp
@@ -66,6 +67,7 @@ leetcode by c++ & js
     ├── 008_StringtoInteger.js
     ├── 009_PalindromeNumber.js
     ├── 013_RomantoInteger.js
+    ├── 014_LongestCommonPrefix.js
     ├── 019_RemoveNthNodeFromEndofList.js
     ├── 020_ValidParentheses.js
     ├── 021_MergeTwoSortedLists.js
@@ -116,5 +118,5 @@ leetcode by c++ & js
     ├── 304_RangeSumQuery2D-Immutable.js
     └── 312_BurstBalloons.js
 
-2 directories, 112 files
+2 directories, 114 files
 ```
