@@ -15,6 +15,7 @@ leetcode by c++ & js
 │   ├── 021_MergeTwoSortedLists.cpp
 │   ├── 026_RemoveDuplicatesfromSortedArray.cpp
 │   ├── 027_RemoveElement.cpp
+│   ├── 028_ImplementstrStr.cpp
 │   ├── 036_ValidSudoku.cpp
 │   ├── 038_CountandSay.cpp
 │   ├── 058_LengthofLastWord.cpp
@@ -30,6 +31,7 @@ leetcode by c++ & js
 │   ├── 119_PascalsTriangleII.cpp
 │   ├── 120_Triangle.cpp
 │   ├── 121_BestTimetoBuyandSellStock.cpp
+│   ├── 125_ValidPalindrome.cpp
 │   ├── 160_IntersectionofTwoLinkedLists.cpp
 │   ├── 168_ExcelSheetColumnTitle.cpp
 │   ├── 169_MajorityElement.cpp
@@ -47,6 +49,7 @@ leetcode by c++ & js
 │   ├── 223_RectangleArea.cpp
 │   ├── 225_ImplementStackusingQueues.cpp
 │   ├── 226_InvertBinaryTree.cpp
+│   ├── 228_SummaryRanges.cpp
 │   ├── 231_PowerofTwo.cpp
 │   ├── 232_ImplementQueueusingStacks.cpp
 │   ├── 234_PalindromeLinkedList.cpp
@@ -76,6 +79,7 @@ leetcode by c++ & js
     ├── 021_MergeTwoSortedLists.js
     ├── 026_RemoveDuplicatesfromSortedArray.js
     ├── 027_RemoveElement.js
+    ├── 028_ImplementstrStr.js
     ├── 036_ValidSudoku.js
     ├── 038_CountandSay.js
     ├── 058_LengthofLastWord.js
@@ -91,6 +95,7 @@ leetcode by c++ & js
     ├── 119_PascalsTriangleII.js
     ├── 120_Triangle.js
     ├── 121_BestTimetoBuyandSellStock.js
+    ├── 125_ValidPalindrome.js
     ├── 160_IntersectionofTwoLinkedLists.js
     ├── 168_ExcelSheetColumnTitle.js
     ├── 169_MajorityElement.js
@@ -108,6 +113,7 @@ leetcode by c++ & js
     ├── 223_RectangleArea.js
     ├── 225_ImplementStackusingQueues.js
     ├── 226_InvertBinaryTree.js
+    ├── 228_SummaryRanges.js
     ├── 231_PowerofTwo.js
     ├── 232_ImplementQueueusingStacks.js
     ├── 234_PalindromeLinkedList.js
@@ -124,5 +130,5 @@ leetcode by c++ & js
     ├── 304_RangeSumQuery2D-Immutable.js
     └── 312_BurstBalloons.js
 
-2 directories, 120 files
+2 directories, 126 files
 ```
