@@ -32,6 +32,7 @@ leetcode by c++ & js
 │   ├── 120_Triangle.cpp
 │   ├── 121_BestTimetoBuyandSellStock.cpp
 │   ├── 125_ValidPalindrome.cpp
+│   ├── 155_MinStack.cpp
 │   ├── 160_IntersectionofTwoLinkedLists.cpp
 │   ├── 168_ExcelSheetColumnTitle.cpp
 │   ├── 169_MajorityElement.cpp
@@ -42,6 +43,7 @@ leetcode by c++ & js
 │   ├── 198_HouseRobber.cpp
 │   ├── 202_HappyNumber.cpp
 │   ├── 203_RemoveLinkedListElements.cpp
+│   ├── 204_CountPrimes.cpp
 │   ├── 205_IsomorphicStrings.cpp
 │   ├── 206_ReverseLinkedList.cpp
 │   ├── 217_ContainsDuplicate.cpp
@@ -96,6 +98,7 @@ leetcode by c++ & js
     ├── 120_Triangle.js
     ├── 121_BestTimetoBuyandSellStock.js
     ├── 125_ValidPalindrome.js
+    ├── 155_MinStack.js
     ├── 160_IntersectionofTwoLinkedLists.js
     ├── 168_ExcelSheetColumnTitle.js
     ├── 169_MajorityElement.js
@@ -106,6 +109,7 @@ leetcode by c++ & js
     ├── 198_HouseRobber.js
     ├── 202_HappyNumber.js
     ├── 203_RemoveLinkedListElements.js
+    ├── 204_CountPrimes.js
     ├── 205_IsomorphicStrings.js
     ├── 206_ReverseLinkedList.js
     ├── 217_ContainsDuplicate.js
@@ -130,5 +134,5 @@ leetcode by c++ & js
     ├── 304_RangeSumQuery2D-Immutable.js
     └── 312_BurstBalloons.js
 
-2 directories, 126 files
+2 directories, 130 files
 ```
