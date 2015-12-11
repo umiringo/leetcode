@@ -34,10 +34,12 @@ leetcode by c++ & js
 │   ├── 125_ValidPalindrome.cpp
 │   ├── 155_MinStack.cpp
 │   ├── 160_IntersectionofTwoLinkedLists.cpp
+│   ├── 165_CompareVersionNumbers.cpp
 │   ├── 168_ExcelSheetColumnTitle.cpp
 │   ├── 169_MajorityElement.cpp
 │   ├── 171_ExcelSheetColumnNumber.cpp
 │   ├── 172_FactorialTrailingZeroes.cpp
+│   ├── 189_RotateArray.cpp
 │   ├── 190_ReverseBits.cpp
 │   ├── 191_Numberof1Bits.cpp
 │   ├── 198_HouseRobber.cpp
@@ -101,10 +103,12 @@ leetcode by c++ & js
     ├── 125_ValidPalindrome.js
     ├── 155_MinStack.js
     ├── 160_IntersectionofTwoLinkedLists.js
+    ├── 165_CompareVersionNumbers.js
     ├── 168_ExcelSheetColumnTitle.js
     ├── 169_MajorityElement.js
     ├── 171_ExcelSheetColumnNumber.js
     ├── 172_FactorialTrailingZeroes.js
+    ├── 189_RotateArray.js
     ├── 190_ReverseBits.js
     ├── 191_Numberof1Bits.js
     ├── 198_HouseRobber.js
@@ -136,5 +140,5 @@ leetcode by c++ & js
     ├── 304_RangeSumQuery2D-Immutable.js
     └── 312_BurstBalloons.js
 
-2 directories, 132 files
+2 directories, 136 files
 ```
