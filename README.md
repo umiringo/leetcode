@@ -60,6 +60,7 @@ leetcode by c++ & js
 │   ├── 242_ValidAnagram.cpp
 │   ├── 258_AddDigits.cpp
 │   ├── 263_UglyNumber.cpp
+│   ├── 278_FirstBadVersion.cpp
 │   ├── 283_MoveZeroes.cpp
 │   ├── 290_WordPattern.cpp
 │   ├── 292_NimGame.cpp
@@ -126,6 +127,7 @@ leetcode by c++ & js
     ├── 242_ValidAnagram.js
     ├── 258_AddDigits.js
     ├── 263_UglyNumber.js
+    ├── 278_FirstBadVersion.js
     ├── 283_MoveZeroes.js
     ├── 290_WordPattern.js
     ├── 292_NimGame.js
@@ -134,5 +136,5 @@ leetcode by c++ & js
     ├── 304_RangeSumQuery2D-Immutable.js
     └── 312_BurstBalloons.js
 
-2 directories, 130 files
+2 directories, 132 files
 ```
