@@ -32,6 +32,7 @@ leetcode by c++ & js
 │   ├── 120_Triangle.cpp
 │   ├── 121_BestTimetoBuyandSellStock.cpp
 │   ├── 125_ValidPalindrome.cpp
+│   ├── 136_SingleNumber.cpp
 │   ├── 155_MinStack.cpp
 │   ├── 160_IntersectionofTwoLinkedLists.cpp
 │   ├── 165_CompareVersionNumbers.cpp
@@ -101,6 +102,7 @@ leetcode by c++ & js
     ├── 120_Triangle.js
     ├── 121_BestTimetoBuyandSellStock.js
     ├── 125_ValidPalindrome.js
+    ├── 136_SingleNumber.js
     ├── 155_MinStack.js
     ├── 160_IntersectionofTwoLinkedLists.js
     ├── 165_CompareVersionNumbers.js
@@ -140,5 +142,5 @@ leetcode by c++ & js
     ├── 304_RangeSumQuery2D-Immutable.js
     └── 312_BurstBalloons.js
 
-2 directories, 136 files
+2 directories, 138 files
 ```
