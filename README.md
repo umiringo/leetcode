@@ -25,6 +25,7 @@ leetcode by c++ & js
 │   ├── 083_RemoveDuplicatesfromSortedList.cpp
 │   ├── 088_MergeSortedArray.cpp
 │   ├── 100_SameTree.cpp
+│   ├── 101_SymmetricTree.cpp
 │   ├── 104_MaximumDepthofBinaryTree.cpp
 │   ├── 110_BalancedBinaryTree.cpp
 │   ├── 118_PascalsTriangle.cpp
@@ -95,6 +96,7 @@ leetcode by c++ & js
     ├── 083_RemoveDuplicatesfromSortedList.js
     ├── 088_MergeSortedArray.js
     ├── 100_SameTree.js
+    ├── 101_SymmetricTree.js
     ├── 104_MaximumDepthofBinaryTree.js
     ├── 110_BalancedBinaryTree.js
     ├── 118_PascalsTriangle.js
@@ -142,5 +144,5 @@ leetcode by c++ & js
     ├── 304_RangeSumQuery2D-Immutable.js
     └── 312_BurstBalloons.js
 
-2 directories, 138 files
+2 directories, 140 files
 ```
