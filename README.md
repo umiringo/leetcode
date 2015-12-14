@@ -30,6 +30,8 @@ leetcode by c++ & js
 │   ├── 104_MaximumDepthofBinaryTree.cpp
 │   ├── 107_BinaryTreeLevelOrderTraversalII.cpp
 │   ├── 110_BalancedBinaryTree.cpp
+│   ├── 111_MinimumDepthofBinaryTree.cpp
+│   ├── 112_PathSum.cpp
 │   ├── 118_PascalsTriangle.cpp
 │   ├── 119_PascalsTriangleII.cpp
 │   ├── 120_Triangle.cpp
@@ -64,6 +66,7 @@ leetcode by c++ & js
 │   ├── 235_LowestCommonAncestorofaBinarySearchTree.cpp
 │   ├── 237_DeleteNodeinaLinkedList.cpp
 │   ├── 242_ValidAnagram.cpp
+│   ├── 257_BinaryTreePaths.cpp
 │   ├── 258_AddDigits.cpp
 │   ├── 263_UglyNumber.cpp
 │   ├── 278_FirstBadVersion.cpp
@@ -103,6 +106,8 @@ leetcode by c++ & js
     ├── 104_MaximumDepthofBinaryTree.js
     ├── 107_BinaryTreeLevelOrderTraversalII.js
     ├── 110_BalancedBinaryTree.js
+    ├── 111_MinimumDepthofBinaryTree.js
+    ├── 112_PathSum.js
     ├── 118_PascalsTriangle.js
     ├── 119_PascalsTriangleII.js
     ├── 120_Triangle.js
@@ -137,6 +142,7 @@ leetcode by c++ & js
     ├── 235_LowestCommonAncestorofaBinarySearchTree.js
     ├── 237_DeleteNodeinaLinkedList.js
     ├── 242_ValidAnagram.js
+    ├── 257_BinaryTreePaths.js
     ├── 258_AddDigits.js
     ├── 263_UglyNumber.js
     ├── 278_FirstBadVersion.js
@@ -148,5 +154,5 @@ leetcode by c++ & js
     ├── 304_RangeSumQuery2D-Immutable.js
     └── 312_BurstBalloons.js
 
-2 directories, 144 files
+2 directories, 150 files
 ```
