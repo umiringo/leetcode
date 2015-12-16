@@ -18,12 +18,14 @@ leetcode by c++ & js
 │   ├── 028_ImplementstrStr.cpp
 │   ├── 036_ValidSudoku.cpp
 │   ├── 038_CountandSay.cpp
+│   ├── 050_Powxn.cpp
 │   ├── 058_LengthofLastWord.cpp
 │   ├── 066_PlusOne.cpp
 │   ├── 067_AddBinary.cpp
 │   ├── 070_ClimbingStairs.cpp
 │   ├── 083_RemoveDuplicatesfromSortedList.cpp
 │   ├── 088_MergeSortedArray.cpp
+│   ├── 094_BinaryTreeInorderTraversal.cpp
 │   ├── 100_SameTree.cpp
 │   ├── 101_SymmetricTree.cpp
 │   ├── 102_BinaryTreeLevelOrderTraversal.cpp
@@ -32,6 +34,7 @@ leetcode by c++ & js
 │   ├── 110_BalancedBinaryTree.cpp
 │   ├── 111_MinimumDepthofBinaryTree.cpp
 │   ├── 112_PathSum.cpp
+│   ├── 116_PopulatingNextRightPointersinEachNode.cpp
 │   ├── 118_PascalsTriangle.cpp
 │   ├── 119_PascalsTriangleII.cpp
 │   ├── 120_Triangle.cpp
@@ -40,6 +43,8 @@ leetcode by c++ & js
 │   ├── 125_ValidPalindrome.cpp
 │   ├── 136_SingleNumber.cpp
 │   ├── 137_SingleNumberII.cpp
+│   ├── 141_LinkedListCycle.cpp
+│   ├── 144_BinaryTreePreorderTraversal.cpp
 │   ├── 155_MinStack.cpp
 │   ├── 160_IntersectionofTwoLinkedLists.cpp
 │   ├── 165_CompareVersionNumbers.cpp
@@ -73,6 +78,8 @@ leetcode by c++ & js
 │   ├── 258_AddDigits.cpp
 │   ├── 260_SingleNumberIII.cpp
 │   ├── 263_UglyNumber.cpp
+│   ├── 264_UglyNumberII.cpp
+│   ├── 268_MissingNumber.cpp
 │   ├── 278_FirstBadVersion.cpp
 │   ├── 283_MoveZeroes.cpp
 │   ├── 290_WordPattern.cpp
@@ -98,12 +105,14 @@ leetcode by c++ & js
     ├── 028_ImplementstrStr.js
     ├── 036_ValidSudoku.js
     ├── 038_CountandSay.js
+    ├── 050_Powxn.js
     ├── 058_LengthofLastWord.js
     ├── 066_PlusOne.js
     ├── 067_AddBinary.js
     ├── 070_ClimbingStairs.js
     ├── 083_RemoveDuplicatesfromSortedList.js
     ├── 088_MergeSortedArray.js
+    ├── 094_BinaryTreeInorderTraversal.js
     ├── 100_SameTree.js
     ├── 101_SymmetricTree.js
     ├── 102_BinaryTreeLevelOrderTraversal.js
@@ -112,6 +121,7 @@ leetcode by c++ & js
     ├── 110_BalancedBinaryTree.js
     ├── 111_MinimumDepthofBinaryTree.js
     ├── 112_PathSum.js
+    ├── 116_PopulatingNextRightPointersinEachNode.js
     ├── 118_PascalsTriangle.js
     ├── 119_PascalsTriangleII.js
     ├── 120_Triangle.js
@@ -120,6 +130,8 @@ leetcode by c++ & js
     ├── 125_ValidPalindrome.js
     ├── 136_SingleNumber.js
     ├── 137_SingleNumberII.js
+    ├── 141_LinkedListCycle.js
+    ├── 144_BinaryTreePreorderTraversal.js
     ├── 155_MinStack.js
     ├── 160_IntersectionofTwoLinkedLists.js
     ├── 165_CompareVersionNumbers.js
@@ -153,6 +165,8 @@ leetcode by c++ & js
     ├── 258_AddDigits.js
     ├── 260_SingleNumberIII.js
     ├── 263_UglyNumber.js
+    ├── 264_UglyNumberII.js
+    ├── 268_MissingNumber.js
     ├── 278_FirstBadVersion.js
     ├── 283_MoveZeroes.js
     ├── 290_WordPattern.js
@@ -162,5 +176,5 @@ leetcode by c++ & js
     ├── 304_RangeSumQuery2D-Immutable.js
     └── 312_BurstBalloons.js
 
-2 directories, 158 files
+2 directories, 172 files
 ```
