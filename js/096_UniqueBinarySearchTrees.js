@@ -1,16 +1,17 @@
 /**
- * @param {number[]} nums
+ * @param {number} n
  * @return {number}
  */
-var findPeakElement = function(nums) {
-    var l = 0, h = nums.length-1;
-    while( l < h ){
-        var m = Math.floor( (l + h + 1)/2 );
-        if(nums[m - 1] > nums[m]){
-            h = m-1;
-        }else{
-            l = m;
+var numTrees = function(n) {
+    var dp = [];
+    for(var k = 0; k <= n; ++k){
+        dp.push(0);
+    }
+    dp[0] = 1;
+    for(var i = 1; i <= n; ++i){
+        for(var j = 0; j < i; ++j){
+            dp[i] += dp[j] * dp[i-j-1];
         }
     }
-    return l;
+    return dp[n];
 };
