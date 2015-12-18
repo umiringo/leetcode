@@ -6,6 +6,8 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+ 
+//recursive
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
@@ -20,4 +22,30 @@ public:
         }
         return q;
     }
+};
+
+//prepoint
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val) {
+ *     this.val = val;
+ *     this.next = null;
+ * }
+ */
+/**
+ * @param {ListNode} head
+ * @return {ListNode}
+ */
+var swapPairs = function(head) {
+    var pre = new ListNode(0);
+    pre.next = head;
+    
+    for(var cur = pre; cur.next !== null && cur.next.next !== null; cur = cur.next.next){
+        var p = cur.next;
+        var q = cur.next.next;
+        p.next = q.next;
+        q.next = p;
+        cur.next = q;
+    }
+    return pre.next;
 };
