@@ -21,6 +21,7 @@ leetcode by c++ & js
 │   ├── 035_SearchInsertPosition.cpp
 │   ├── 036_ValidSudoku.cpp
 │   ├── 038_CountandSay.cpp
+│   ├── 046_Permutations.cpp
 │   ├── 050_Powxn.cpp
 │   ├── 053_MaximumSubarray.cpp
 │   ├── 058_LengthofLastWord.cpp
@@ -77,6 +78,7 @@ leetcode by c++ & js
 │   ├── 225_ImplementStackusingQueues.cpp
 │   ├── 226_InvertBinaryTree.cpp
 │   ├── 228_SummaryRanges.cpp
+│   ├── 230_KthSmallestElementinaBST.cpp
 │   ├── 231_PowerofTwo.cpp
 │   ├── 232_ImplementQueueusingStacks.cpp
 │   ├── 234_PalindromeLinkedList.cpp
@@ -120,6 +122,7 @@ leetcode by c++ & js
     ├── 035_SearchInsertPosition.js
     ├── 036_ValidSudoku.js
     ├── 038_CountandSay.js
+    ├── 046_Permutations.js
     ├── 050_Powxn.js
     ├── 053_MaximumSubarray.js
     ├── 058_LengthofLastWord.js
@@ -176,6 +179,7 @@ leetcode by c++ & js
     ├── 225_ImplementStackusingQueues.js
     ├── 226_InvertBinaryTree.js
     ├── 228_SummaryRanges.js
+    ├── 230_KthSmallestElementinaBST.js
     ├── 231_PowerofTwo.js
     ├── 232_ImplementQueueusingStacks.js
     ├── 234_PalindromeLinkedList.js
@@ -200,5 +204,5 @@ leetcode by c++ & js
     ├── 312_BurstBalloons.js
     └── 318_MaximumProductofWordLengths.js
 
-2 directories, 196 files
+2 directories, 200 files
 ```
