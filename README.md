@@ -15,6 +15,7 @@ leetcode by c++ & js
 │   ├── 020_ValidParentheses.cpp
 │   ├── 021_MergeTwoSortedLists.cpp
 │   ├── 022_GenerateParentheses.cpp
+│   ├── 024_SwapNodesinPairs.cpp
 │   ├── 026_RemoveDuplicatesfromSortedArray.cpp
 │   ├── 027_RemoveElement.cpp
 │   ├── 028_ImplementstrStr.cpp
@@ -29,6 +30,7 @@ leetcode by c++ & js
 │   ├── 066_PlusOne.cpp
 │   ├── 067_AddBinary.cpp
 │   ├── 070_ClimbingStairs.cpp
+│   ├── 075_SortColors.cpp
 │   ├── 083_RemoveDuplicatesfromSortedList.cpp
 │   ├── 088_MergeSortedArray.cpp
 │   ├── 089_GrayCode.cpp
@@ -116,6 +118,7 @@ leetcode by c++ & js
     ├── 020_ValidParentheses.js
     ├── 021_MergeTwoSortedLists.js
     ├── 022_GenerateParentheses.js
+    ├── 024_SwapNodesinPairs.js
     ├── 026_RemoveDuplicatesfromSortedArray.js
     ├── 027_RemoveElement.js
     ├── 028_ImplementstrStr.js
@@ -130,6 +133,7 @@ leetcode by c++ & js
     ├── 066_PlusOne.js
     ├── 067_AddBinary.js
     ├── 070_ClimbingStairs.js
+    ├── 075_SortColors.js
     ├── 083_RemoveDuplicatesfromSortedList.js
     ├── 088_MergeSortedArray.js
     ├── 089_GrayCode.js
@@ -204,5 +208,5 @@ leetcode by c++ & js
     ├── 312_BurstBalloons.js
     └── 318_MaximumProductofWordLengths.js
 
-2 directories, 200 files
+2 directories, 204 files
 ```
