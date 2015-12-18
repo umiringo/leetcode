@@ -27,6 +27,7 @@ leetcode by c++ & js
 │   ├── 053_MaximumSubarray.cpp
 │   ├── 058_LengthofLastWord.cpp
 │   ├── 062_UniquePaths.cpp
+│   ├── 064_MinimumPathSum.cpp
 │   ├── 066_PlusOne.cpp
 │   ├── 067_AddBinary.cpp
 │   ├── 070_ClimbingStairs.cpp
@@ -130,6 +131,7 @@ leetcode by c++ & js
     ├── 053_MaximumSubarray.js
     ├── 058_LengthofLastWord.js
     ├── 062_UniquePaths.js
+    ├── 064_MinimumPathSum.js
     ├── 066_PlusOne.js
     ├── 067_AddBinary.js
     ├── 070_ClimbingStairs.js
@@ -208,5 +210,5 @@ leetcode by c++ & js
     ├── 312_BurstBalloons.js
     └── 318_MaximumProductofWordLengths.js
 
-2 directories, 204 files
+2 directories, 206 files
 ```
