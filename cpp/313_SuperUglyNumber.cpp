@@ -10,7 +10,6 @@ public:
                 continue;
             }
             int min = INT_MAX;
-            int index = 0;
             for(int j = 0; j < len; ++j){
                 min = std::min(dp[mark[j]] * primes[j], min);
             }

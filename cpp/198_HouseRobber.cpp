@@ -2,7 +2,7 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         if(nums.size() == 0) return 0;
-        int t[nums.size()];
+        int t[2];
         for(int i = 0; i < nums.size(); i++){
             if(i == 0) t[0] = nums[0];
             else if(i == 1) t[1] = std::max(nums[0], nums[1]);
