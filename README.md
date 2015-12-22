@@ -24,18 +24,22 @@ leetcode by c++ & js
 │   ├── 036_ValidSudoku.cpp
 │   ├── 038_CountandSay.cpp
 │   ├── 039_CombinationSum.cpp
+│   ├── 040_CombinationSumII.cpp
 │   ├── 046_Permutations.cpp
 │   ├── 048_RotateImage.cpp
 │   ├── 050_Powxn.cpp
 │   ├── 053_MaximumSubarray.cpp
 │   ├── 054_SpiralMatrix.cpp
+│   ├── 055_JumpGame.cpp
 │   ├── 058_LengthofLastWord.cpp
 │   ├── 059_SpiralMatrixII.cpp
 │   ├── 062_UniquePaths.cpp
 │   ├── 064_MinimumPathSum.cpp
 │   ├── 066_PlusOne.cpp
 │   ├── 067_AddBinary.cpp
+│   ├── 069_Sqrtx.cpp
 │   ├── 070_ClimbingStairs.cpp
+│   ├── 071_SimplifyPath.cpp
 │   ├── 074_Searcha2DMatrix.cpp
 │   ├── 075_SortColors.cpp
 │   ├── 083_RemoveDuplicatesfromSortedList.cpp
@@ -62,6 +66,7 @@ leetcode by c++ & js
 │   ├── 136_SingleNumber.cpp
 │   ├── 137_SingleNumberII.cpp
 │   ├── 141_LinkedListCycle.cpp
+│   ├── 142_LinkedListCycleII.cpp
 │   ├── 144_BinaryTreePreorderTraversal.cpp
 │   ├── 153_FindMinimuminRotatedSortedArray.cpp
 │   ├── 155_MinStack.cpp
@@ -81,6 +86,7 @@ leetcode by c++ & js
 │   ├── 204_CountPrimes.cpp
 │   ├── 205_IsomorphicStrings.cpp
 │   ├── 206_ReverseLinkedList.cpp
+│   ├── 213_HouseRobberII.cpp
 │   ├── 216_CombinationSumIII.cpp
 │   ├── 217_ContainsDuplicate.cpp
 │   ├── 219_ContainsDuplicateII.cpp
@@ -88,6 +94,7 @@ leetcode by c++ & js
 │   ├── 225_ImplementStackusingQueues.cpp
 │   ├── 226_InvertBinaryTree.cpp
 │   ├── 228_SummaryRanges.cpp
+│   ├── 229_MajorityElementII.cpp
 │   ├── 230_KthSmallestElementinaBST.cpp
 │   ├── 231_PowerofTwo.cpp
 │   ├── 232_ImplementQueueusingStacks.cpp
@@ -111,7 +118,9 @@ leetcode by c++ & js
 │   ├── 304_RangeSumQuery2D-Immutable.cpp
 │   ├── 309_BestTimetoBuyandSellStockwithCooldown.cpp
 │   ├── 312_BurstBalloons.cpp
-│   └── 318_MaximumProductofWordLengths.cpp
+│   ├── 313_SuperUglyNumber.cpp
+│   ├── 318_MaximumProductofWordLengths.cpp
+│   └── 319_BulbSwitcher.cpp
 ├── genreadme.sh
 └── js
     ├── 001_TwoSum.js
@@ -135,18 +144,22 @@ leetcode by c++ & js
     ├── 036_ValidSudoku.js
     ├── 038_CountandSay.js
     ├── 039_CombinationSum.js
+    ├── 040_CombinationSumII.js
     ├── 046_Permutations.js
     ├── 048_RotateImage.js
     ├── 050_Powxn.js
     ├── 053_MaximumSubarray.js
     ├── 054_SpiralMatrix.js
+    ├── 055_JumpGame.js
     ├── 058_LengthofLastWord.js
     ├── 059_SpiralMatrixII.js
     ├── 062_UniquePaths.js
     ├── 064_MinimumPathSum.js
     ├── 066_PlusOne.js
     ├── 067_AddBinary.js
+    ├── 069_Sqrtx.js
     ├── 070_ClimbingStairs.js
+    ├── 071_SimplifyPath.js
     ├── 074_Searcha2DMatrix.js
     ├── 075_SortColors.js
     ├── 083_RemoveDuplicatesfromSortedList.js
@@ -173,6 +186,7 @@ leetcode by c++ & js
     ├── 136_SingleNumber.js
     ├── 137_SingleNumberII.js
     ├── 141_LinkedListCycle.js
+    ├── 142_LinkedListCycleII.js
     ├── 144_BinaryTreePreorderTraversal.js
     ├── 153_FindMinimuminRotatedSortedArray.js
     ├── 155_MinStack.js
@@ -192,6 +206,7 @@ leetcode by c++ & js
     ├── 204_CountPrimes.js
     ├── 205_IsomorphicStrings.js
     ├── 206_ReverseLinkedList.js
+    ├── 213_HouseRobberII.js
     ├── 216_CombinationSumIII.js
     ├── 217_ContainsDuplicate.js
     ├── 219_ContainsDuplicateII.js
@@ -199,6 +214,7 @@ leetcode by c++ & js
     ├── 225_ImplementStackusingQueues.js
     ├── 226_InvertBinaryTree.js
     ├── 228_SummaryRanges.js
+    ├── 229_MajorityElementII.js
     ├── 230_KthSmallestElementinaBST.js
     ├── 231_PowerofTwo.js
     ├── 232_ImplementQueueusingStacks.js
@@ -222,7 +238,9 @@ leetcode by c++ & js
     ├── 304_RangeSumQuery2D-Immutable.js
     ├── 309_BestTimetoBuyandSellStockwithCooldown.js
     ├── 312_BurstBalloons.js
-    └── 318_MaximumProductofWordLengths.js
+    ├── 313_SuperUglyNumber.js
+    ├── 318_MaximumProductofWordLengths.js
+    └── 319_BulbSwitcher.js
 
-2 directories, 220 files
+2 directories, 238 files
 ```
