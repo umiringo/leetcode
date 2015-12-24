@@ -4,6 +4,7 @@ leetcode by c++ & js
 ├── README.md
 ├── cpp
 │   ├── 001_TwoSum.cpp
+│   ├── 002_AddTwoNumbers.cpp
 │   ├── 006_ZigZagConversion.cpp
 │   ├── 007_ReverseInteger.cpp
 │   ├── 008_StringtoInteger.cpp
@@ -68,6 +69,7 @@ leetcode by c++ & js
 │   ├── 141_LinkedListCycle.cpp
 │   ├── 142_LinkedListCycleII.cpp
 │   ├── 144_BinaryTreePreorderTraversal.cpp
+│   ├── 145_BinaryTreePostorderTraversal.cpp
 │   ├── 153_FindMinimuminRotatedSortedArray.cpp
 │   ├── 155_MinStack.cpp
 │   ├── 160_IntersectionofTwoLinkedLists.cpp
@@ -111,12 +113,15 @@ leetcode by c++ & js
 │   ├── 268_MissingNumber.cpp
 │   ├── 278_FirstBadVersion.cpp
 │   ├── 283_MoveZeroes.cpp
+│   ├── 287_FindtheDuplicateNumber.cpp
+│   ├── 289_GameofLife.cpp
 │   ├── 290_WordPattern.cpp
 │   ├── 292_NimGame.cpp
 │   ├── 299_BullsandCows.cpp
 │   ├── 303_RangeSumQuery-Immutable.cpp
 │   ├── 304_RangeSumQuery2D-Immutable.cpp
 │   ├── 309_BestTimetoBuyandSellStockwithCooldown.cpp
+│   ├── 310_MinimumHeightTrees.cpp
 │   ├── 312_BurstBalloons.cpp
 │   ├── 313_SuperUglyNumber.cpp
 │   ├── 318_MaximumProductofWordLengths.cpp
@@ -124,6 +129,7 @@ leetcode by c++ & js
 ├── genreadme.sh
 └── js
     ├── 001_TwoSum.js
+    ├── 002_AddTwoNumbers.js
     ├── 006_ZigZagConversion.js
     ├── 007_ReverseInteger.js
     ├── 008_StringtoInteger.js
@@ -188,6 +194,7 @@ leetcode by c++ & js
     ├── 141_LinkedListCycle.js
     ├── 142_LinkedListCycleII.js
     ├── 144_BinaryTreePreorderTraversal.js
+    ├── 145_BinaryTreePostorderTraversal.js
     ├── 153_FindMinimuminRotatedSortedArray.js
     ├── 155_MinStack.js
     ├── 160_IntersectionofTwoLinkedLists.js
@@ -231,16 +238,19 @@ leetcode by c++ & js
     ├── 268_MissingNumber.js
     ├── 278_FirstBadVersion.js
     ├── 283_MoveZeroes.js
+    ├── 287_FindtheDuplicateNumber.js
+    ├── 289_GameofLife.js
     ├── 290_WordPattern.js
     ├── 292_NimGame.js
     ├── 299_BullsandCows.js
     ├── 303_RangeSumQuery-Immutable.js
     ├── 304_RangeSumQuery2D-Immutable.js
     ├── 309_BestTimetoBuyandSellStockwithCooldown.js
+    ├── 310_MinimumHeightTrees.js
     ├── 312_BurstBalloons.js
     ├── 313_SuperUglyNumber.js
     ├── 318_MaximumProductofWordLengths.js
     └── 319_BulbSwitcher.js
 
-2 directories, 238 files
+2 directories, 248 files
 ```
