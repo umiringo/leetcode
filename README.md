@@ -41,6 +41,7 @@ leetcode by c++ & js
 │   ├── 069_Sqrtx.cpp
 │   ├── 070_ClimbingStairs.cpp
 │   ├── 071_SimplifyPath.cpp
+│   ├── 073_SetMatrixZeroes.cpp
 │   ├── 074_Searcha2DMatrix.cpp
 │   ├── 075_SortColors.cpp
 │   ├── 083_RemoveDuplicatesfromSortedList.cpp
@@ -167,6 +168,7 @@ leetcode by c++ & js
     ├── 069_Sqrtx.js
     ├── 070_ClimbingStairs.js
     ├── 071_SimplifyPath.js
+    ├── 073_SetMatrixZeroes.js
     ├── 074_Searcha2DMatrix.js
     ├── 075_SortColors.js
     ├── 083_RemoveDuplicatesfromSortedList.js
@@ -254,5 +256,5 @@ leetcode by c++ & js
     ├── 318_MaximumProductofWordLengths.js
     └── 319_BulbSwitcher.js
 
-2 directories, 250 files
+2 directories, 252 files
 ```
