@@ -21,6 +21,7 @@ leetcode by c++ & js
 │   ├── 026_RemoveDuplicatesfromSortedArray.cpp
 │   ├── 027_RemoveElement.cpp
 │   ├── 028_ImplementstrStr.cpp
+│   ├── 034_SearchforaRange.cpp
 │   ├── 035_SearchInsertPosition.cpp
 │   ├── 036_ValidSudoku.cpp
 │   ├── 038_CountandSay.cpp
@@ -84,6 +85,8 @@ leetcode by c++ & js
 │   ├── 169_MajorityElement.cpp
 │   ├── 171_ExcelSheetColumnNumber.cpp
 │   ├── 172_FactorialTrailingZeroes.cpp
+│   ├── 173_BinarySearchTreeIterator.cpp
+│   ├── 179_LargestNumber.cpp
 │   ├── 189_RotateArray.cpp
 │   ├── 190_ReverseBits.cpp
 │   ├── 191_Numberof1Bits.cpp
@@ -157,6 +160,7 @@ leetcode by c++ & js
     ├── 026_RemoveDuplicatesfromSortedArray.js
     ├── 027_RemoveElement.js
     ├── 028_ImplementstrStr.js
+    ├── 034_SearchforaRange.js
     ├── 035_SearchInsertPosition.js
     ├── 036_ValidSudoku.js
     ├── 038_CountandSay.js
@@ -220,6 +224,8 @@ leetcode by c++ & js
     ├── 169_MajorityElement.js
     ├── 171_ExcelSheetColumnNumber.js
     ├── 172_FactorialTrailingZeroes.js
+    ├── 173_BinarySearchTreeIterator.js
+    ├── 179_LargestNumber.js
     ├── 189_RotateArray.js
     ├── 190_ReverseBits.js
     ├── 191_Numberof1Bits.js
@@ -274,5 +280,5 @@ leetcode by c++ & js
     ├── 319_BulbSwitcher.js
     └── 322_CoinChange.js
 
-2 directories, 270 files
+2 directories, 276 files
 ```
