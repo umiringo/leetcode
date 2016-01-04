@@ -87,6 +87,7 @@ leetcode by c++ & js
 │   ├── 190_ReverseBits.cpp
 │   ├── 191_Numberof1Bits.cpp
 │   ├── 198_HouseRobber.cpp
+│   ├── 201_BitwiseANDofNumbersRange.cpp
 │   ├── 202_HappyNumber.cpp
 │   ├── 203_RemoveLinkedListElements.cpp
 │   ├── 204_CountPrimes.cpp
@@ -117,6 +118,8 @@ leetcode by c++ & js
 │   ├── 263_UglyNumber.cpp
 │   ├── 264_UglyNumberII.cpp
 │   ├── 268_MissingNumber.cpp
+│   ├── 274_H-Index.cpp
+│   ├── 275_H-IndexII.cpp
 │   ├── 278_FirstBadVersion.cpp
 │   ├── 283_MoveZeroes.cpp
 │   ├── 287_FindtheDuplicateNumber.cpp
@@ -219,6 +222,7 @@ leetcode by c++ & js
     ├── 190_ReverseBits.js
     ├── 191_Numberof1Bits.js
     ├── 198_HouseRobber.js
+    ├── 201_BitwiseANDofNumbersRange.js
     ├── 202_HappyNumber.js
     ├── 203_RemoveLinkedListElements.js
     ├── 204_CountPrimes.js
@@ -249,6 +253,8 @@ leetcode by c++ & js
     ├── 263_UglyNumber.js
     ├── 264_UglyNumberII.js
     ├── 268_MissingNumber.js
+    ├── 274_H-Index.js
+    ├── 275_H-IndexII.js
     ├── 278_FirstBadVersion.js
     ├── 283_MoveZeroes.js
     ├── 287_FindtheDuplicateNumber.js
@@ -266,5 +272,5 @@ leetcode by c++ & js
     ├── 319_BulbSwitcher.js
     └── 322_CoinChange.js
 
-2 directories, 262 files
+2 directories, 268 files
 ```
