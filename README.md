@@ -36,6 +36,7 @@ leetcode by c++ & js
 │   ├── 058_LengthofLastWord.cpp
 │   ├── 059_SpiralMatrixII.cpp
 │   ├── 062_UniquePaths.cpp
+│   ├── 063_UniquePathsII.cpp
 │   ├── 064_MinimumPathSum.cpp
 │   ├── 066_PlusOne.cpp
 │   ├── 067_AddBinary.cpp
@@ -110,6 +111,7 @@ leetcode by c++ & js
 │   ├── 230_KthSmallestElementinaBST.cpp
 │   ├── 231_PowerofTwo.cpp
 │   ├── 232_ImplementQueueusingStacks.cpp
+│   ├── 233_NumberofDigitOne.cpp
 │   ├── 234_PalindromeLinkedList.cpp
 │   ├── 235_LowestCommonAncestorofaBinarySearchTree.cpp
 │   ├── 237_DeleteNodeinaLinkedList.cpp
@@ -125,6 +127,7 @@ leetcode by c++ & js
 │   ├── 274_H-Index.cpp
 │   ├── 275_H-IndexII.cpp
 │   ├── 278_FirstBadVersion.cpp
+│   ├── 279_PerfectSquares.cpp
 │   ├── 283_MoveZeroes.cpp
 │   ├── 287_FindtheDuplicateNumber.cpp
 │   ├── 289_GameofLife.cpp
@@ -175,6 +178,7 @@ leetcode by c++ & js
     ├── 058_LengthofLastWord.js
     ├── 059_SpiralMatrixII.js
     ├── 062_UniquePaths.js
+    ├── 063_UniquePathsII.js
     ├── 064_MinimumPathSum.js
     ├── 066_PlusOne.js
     ├── 067_AddBinary.js
@@ -249,6 +253,7 @@ leetcode by c++ & js
     ├── 230_KthSmallestElementinaBST.js
     ├── 231_PowerofTwo.js
     ├── 232_ImplementQueueusingStacks.js
+    ├── 233_NumberofDigitOne.js
     ├── 234_PalindromeLinkedList.js
     ├── 235_LowestCommonAncestorofaBinarySearchTree.js
     ├── 237_DeleteNodeinaLinkedList.js
@@ -264,6 +269,7 @@ leetcode by c++ & js
     ├── 274_H-Index.js
     ├── 275_H-IndexII.js
     ├── 278_FirstBadVersion.js
+    ├── 279_PerfectSquares.js
     ├── 283_MoveZeroes.js
     ├── 287_FindtheDuplicateNumber.js
     ├── 289_GameofLife.js
@@ -280,5 +286,5 @@ leetcode by c++ & js
     ├── 319_BulbSwitcher.js
     └── 322_CoinChange.js
 
-2 directories, 276 files
+2 directories, 282 files
 ```
