@@ -10,13 +10,11 @@ public:
     
 private:
     void backtrace(vector<vector<int>>& ret, vector<int>& path, vector<int>& nums,int index){
-        if(index == nums.size()){
-            ret.push_back(path);
-            return;
+        ret.push_back(path);
+        for(int i = index; i < nums.size(); ++i){
+            path.push_back(nums[i]);
+            backtrace(ret,path,nums,i+1);
+            path.pop_back();
         }
-        path.push_back(nums[index]);
-        backtrace(ret,path,nums,index+1);
-        path.pop_back();
-        backtrace(ret,path,nums,index+1);
     }
 };

@@ -10,12 +10,10 @@ var subsets = function(nums) {
 };
 
 var backtrace = function(ret,path,nums,index){
-    if(index == nums.length){
-        ret.push(path.concat());
-        return;
+    ret.push(path.concat());
+    for(var i = index; i < nums.length; ++i){
+        path.push(nums[i]);
+        backtrace(ret,path,nums,i+1);
+        path.pop();
     }
-    path.push(nums[index]);
-    backtrace(ret,path,nums,index+1);
-    path.pop();
-    backtrace(ret,path,nums,index+1);
 };
