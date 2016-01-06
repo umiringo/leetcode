@@ -135,6 +135,7 @@ leetcode by c++ & js
 │   ├── 290_WordPattern.cpp
 │   ├── 292_NimGame.cpp
 │   ├── 299_BullsandCows.cpp
+│   ├── 300_LongestIncreasingSubsequence.cpp
 │   ├── 303_RangeSumQuery-Immutable.cpp
 │   ├── 304_RangeSumQuery2D-Immutable.cpp
 │   ├── 309_BestTimetoBuyandSellStockwithCooldown.cpp
@@ -278,6 +279,7 @@ leetcode by c++ & js
     ├── 290_WordPattern.js
     ├── 292_NimGame.js
     ├── 299_BullsandCows.js
+    ├── 300_LongestIncreasingSubsequence.js
     ├── 303_RangeSumQuery-Immutable.js
     ├── 304_RangeSumQuery2D-Immutable.js
     ├── 309_BestTimetoBuyandSellStockwithCooldown.js
@@ -288,5 +290,5 @@ leetcode by c++ & js
     ├── 319_BulbSwitcher.js
     └── 322_CoinChange.js
 
-2 directories, 284 files
+2 directories, 286 files
 ```

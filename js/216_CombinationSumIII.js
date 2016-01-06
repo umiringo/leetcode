@@ -20,4 +20,4 @@ var backtrace = function(ret,path,start,n,k){
         backtrace(ret,path,i+1,n-i,k);
         path.pop();
     }
-};
+}
