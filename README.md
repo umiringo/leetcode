@@ -55,6 +55,7 @@ leetcode by c++ & js
 │   ├── 089_GrayCode.cpp
 │   ├── 090_SubsetsII.cpp
 │   ├── 094_BinaryTreeInorderTraversal.cpp
+│   ├── 095_UniqueBinarySearchTreesII.cpp
 │   ├── 096_UniqueBinarySearchTrees.cpp
 │   ├── 100_SameTree.cpp
 │   ├── 101_SymmetricTree.cpp
@@ -122,6 +123,7 @@ leetcode by c++ & js
 │   ├── 237_DeleteNodeinaLinkedList.cpp
 │   ├── 238_ProductofArrayExceptSelf.cpp
 │   ├── 240_Searcha2DMatrixII.cpp
+│   ├── 241_DifferentWaystoAddParentheses.cpp
 │   ├── 242_ValidAnagram.cpp
 │   ├── 257_BinaryTreePaths.cpp
 │   ├── 258_AddDigits.cpp
@@ -148,7 +150,8 @@ leetcode by c++ & js
 │   ├── 313_SuperUglyNumber.cpp
 │   ├── 318_MaximumProductofWordLengths.cpp
 │   ├── 319_BulbSwitcher.cpp
-│   └── 322_CoinChange.cpp
+│   ├── 322_CoinChange.cpp
+│   └── 326_PowerofThree.cpp
 ├── genreadme.sh
 └── js
     ├── 001_TwoSum.js
@@ -203,6 +206,7 @@ leetcode by c++ & js
     ├── 089_GrayCode.js
     ├── 090_SubsetsII.js
     ├── 094_BinaryTreeInorderTraversal.js
+    ├── 095_UniqueBinarySearchTreesII.js
     ├── 096_UniqueBinarySearchTrees.js
     ├── 100_SameTree.js
     ├── 101_SymmetricTree.js
@@ -270,6 +274,7 @@ leetcode by c++ & js
     ├── 237_DeleteNodeinaLinkedList.js
     ├── 238_ProductofArrayExceptSelf.js
     ├── 240_Searcha2DMatrixII.js
+    ├── 241_DifferentWaystoAddParentheses.js
     ├── 242_ValidAnagram.js
     ├── 257_BinaryTreePaths.js
     ├── 258_AddDigits.js
@@ -296,7 +301,8 @@ leetcode by c++ & js
     ├── 313_SuperUglyNumber.js
     ├── 318_MaximumProductofWordLengths.js
     ├── 319_BulbSwitcher.js
-    └── 322_CoinChange.js
+    ├── 322_CoinChange.js
+    └── 326_PowerofThree.js
 
-2 directories, 294 files
+2 directories, 300 files
 ```
