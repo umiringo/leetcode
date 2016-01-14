@@ -21,6 +21,7 @@ leetcode by c++ & js
 │   ├── 026_RemoveDuplicatesfromSortedArray.cpp
 │   ├── 027_RemoveElement.cpp
 │   ├── 028_ImplementstrStr.cpp
+│   ├── 031_NextPermutation.cpp
 │   ├── 034_SearchforaRange.cpp
 │   ├── 035_SearchInsertPosition.cpp
 │   ├── 036_ValidSudoku.cpp
@@ -173,6 +174,7 @@ leetcode by c++ & js
     ├── 026_RemoveDuplicatesfromSortedArray.js
     ├── 027_RemoveElement.js
     ├── 028_ImplementstrStr.js
+    ├── 031_NextPermutation.js
     ├── 034_SearchforaRange.js
     ├── 035_SearchInsertPosition.js
     ├── 036_ValidSudoku.js
@@ -306,5 +308,5 @@ leetcode by c++ & js
     ├── 322_CoinChange.js
     └── 326_PowerofThree.js
 
-2 directories, 302 files
+2 directories, 304 files
 ```
